@@ -6,7 +6,8 @@
   "scripts": {
     "watch": "webpack -w",
     "dev": "webpack-dev-server --progress --inline",
-    "start": "node production.js"
+    "start": "node production.js",
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
