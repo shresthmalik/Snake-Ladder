@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dhruv-kumar-jha/snake-ladder.git"
+    "url": "git+https://github.com/shresthmalik/Snake-Ladder.git"
   },
-  "author": "dhruv@dhruvkumarjha.com",
+  "author": "shresthmalik.official@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dhruv-kumar-jha/snake-ladder/issues"
+    "url": "https://github.com/shresthmalik/Snake-Ladder/issues"
   },
-  "homepage": "https://github.com/dhruv-kumar-jha/snake-ladder#readme",
+  "homepage": "https://github.com/shresthmalik/Snake-Ladder#readme",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-loader": "^6.2.4",
